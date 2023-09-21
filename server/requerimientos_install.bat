@@ -1,0 +1,1 @@
+start cmd /k ".\3.11\scripts\activate.bat & pip install -r requerimientos.txt"
